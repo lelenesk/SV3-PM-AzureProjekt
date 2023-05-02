@@ -1,0 +1,19 @@
+﻿{
+    "Variable": [
+    {
+    "RG":"GT",
+    "Vnet":"GT-vnet",
+    "Subnet":"GT-subnet",
+    "IP_AdrrSpace":"172.16.0.0/16",
+    "IP_subnet":"172.16.0.0/24",
+    "IP_dc1":"172.16.0.10",
+    "IP_fs1":"172.16.0.11",
+    "IP_w10client":"172.16.0.20",
+    "IP_w11client":"172.16.0.30",
+    "Admin":"Demo",
+    "Password":"Demo1234####",
+    "Domain":"project.local",
+    "Default_ADUP":"Demo1234####"
+    }
+]
+}
